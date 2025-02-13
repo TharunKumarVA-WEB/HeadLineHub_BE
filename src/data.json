@@ -1,0 +1,366 @@
+{
+    "meta": {
+      "found": 1291968,
+      "returned": 3,
+      "limit": 3,
+      "page": 1
+    },
+    "data": [
+      {
+        "uuid": "acc03366-45bd-40df-99f8-dbf844018d4f",
+        "title": "Eva-Jane Willis Talks FBI: International Cameo, Smitty's Past, Future",
+        "description": "Eva-Jane Willis has played Europol Agent Megan 'Smitty' Garretson on ‘FBI: International’ since season 2",
+        "keywords": "",
+        "snippet": "Eva-Jane Willis was just as excited as Us when this FBI: International alum returned to help catch a murderer on the latest episode of the CBS series.\n\nWarning:...",
+        "url": "https://www.usmagazine.com/entertainment/news/eva-jane-willis-talks-fbi-international-cameo-smittys-past-future/",
+        "image_url": "https://www.usmagazine.com/wp-content/uploads/2025/02/Eva-Jane-Willis-Reveals-Why-Spoiler-s-FBI-International-Return-Was-Key-to-Bringing-Down-Murderer-167-3051790_0028b.jpg?crop=0px%2C0px%2C1998px%2C1051px&resize=1200%2C630&quality=70&strip=all",
+        "language": "en",
+        "published_at": "2025-02-12T03:01:04.000000Z",
+        "source": "usmagazine.com",
+        "categories": [
+          "entertainment",
+          "general"
+        ],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "25136338-3138-432c-9e2f-7d9d460c5241",
+        "title": "Jason Kelce Went Months Without Talking to Travis Kelce Before Podcast",
+        "description": "The NFL stars launched their ‘New Heights’ podcast in September 2022",
+        "keywords": "",
+        "snippet": "They’re brothers and two of the NFL’s most prolific stars — but Jason and Travis Kelce once went “months” without speaking to one another.\n\nIn an inte...",
+        "url": "https://www.usmagazine.com/entertainment/news/jason-kelce-went-months-without-talking-to-travis-kelce-before-podcast/",
+        "image_url": "https://www.usmagazine.com/wp-content/uploads/2025/02/GettyImages-2161118299-Kelces.jpg?crop=0px%2C261px%2C3000px%2C1576px&resize=1200%2C630&quality=86&strip=all",
+        "language": "en",
+        "published_at": "2025-02-12T03:00:44.000000Z",
+        "source": "usmagazine.com",
+        "categories": [
+          "entertainment",
+          "general"
+        ],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "ab0ff761-2cff-4931-a9e1-c5c837332771",
+        "title": "2/11: CBS Evening News",
+        "description": "How a D.C. school is working to reverse pandemic learning loss; Rare deep-sea anglerfish spotted on ocean's surface for first time",
+        "keywords": "CBS",
+        "snippet": "2/11: CBS Evening News How a D.C. school is working to reverse pandemic learning loss; Rare deep-sea anglerfish spotted on ocean's surface for first time",
+        "url": "https://www.cbsnews.com/video/021125-cbs-evening-news/",
+        "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/12/fe608955-3f9b-4c9b-875c-2c5ecfbe828c/thumbnail/1200x630/e5098708ada096f89bb5e8210dea9570/0211-en-full-3531617-640x360.jpg?v=905524240eba4a810b7648f150c98fe0",
+        "language": "en",
+        "published_at": "2025-02-12T03:00:03.000000Z",
+        "source": "cbsnews.com",
+        "categories": [
+          "general"
+        ],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "a674f2c3-bde9-47d9-b3d3-c8cc35bb55a0",
+        "title": "Ruby Franke and Jodi Hildebrandt Case Shocks the Community",
+        "description": "The case involving Ruby Franke and Jodi Hildebrandt has drawn national attention.",
+        "keywords": "Ruby Franke, Jodi Hildebrandt, Crime",
+        "snippet": "The controversial case of Ruby Franke and Jodi Hildebrandt continues to shock the public.",
+        "url": "https://www.foxnews.com/2025/02/12/ruby-franke-jodi-hildebrandt-case",
+        "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/ruby-franke-and-jodi-hildebrandt.jpg?tl=1&ve=1",
+        "language": "en",
+        "published_at": "2025-02-12T08:30:00.000000Z",
+        "source": "foxnews.com",
+        "categories": ["crime", "general"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "8a4f57b0-4780-41b9-bb07-29c78b4b64a2",
+        "title": "Federal Data Removed After Cybersecurity Breach",
+        "description": "Sensitive federal data was removed following a security breach.",
+        "keywords": "Cybersecurity, Data, Federal",
+        "snippet": "A breach in cybersecurity forced federal data to be removed from public access for security reasons.",
+        "url": "https://www.sunjournal.com/2025/02/12/federal-data-removed/",
+        "image_url": "https://www.sunjournal.com/wp-content/uploads/sites/11/2025/02/Federal_Data_Removed_15449-1738973140.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T08:00:00.000000Z",
+        "source": "sunjournal.com",
+        "categories": ["technology", "general"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+     
+      {
+        "uuid": "30f1a6a5-6d92-4e59-b680-fac3ed4d7cd9",
+        "title": "Man Rescued After Falling into Freezing River",
+        "description": "A daring rescue saved a man who fell into a freezing river last weekend.",
+        "keywords": "Rescue, River, Freezing",
+        "snippet": "Firefighters and emergency responders successfully saved a man who had fallen into a freezing river over the weekend.",
+        "url": "https://www.dailymail.co.uk/2025/02/12/man-rescue-river",
+        "image_url": "https://i.dailymail.co.uk/1s/2025/02/08/01/94993321-0-image-m-130_1738978726580.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T09:00:00.000000Z",
+        "source": "dailymail.co.uk",
+        "categories": ["general", "rescue"],
+        "relevance_score": null,
+        "locale": "uk"
+      },
+      {
+        "uuid": "23be1fc7-f273-41f9-8c38-5b2fa5c68959",
+        "title": "How to Stay Healthy During Winter Months",
+        "description": "Learn the best tips to stay healthy and prevent illness during the colder months.",
+        "keywords": "Health, Winter, Flu",
+        "snippet": "With winter approaching, it's important to stay healthy and boost your immune system to avoid common winter illnesses.",
+        "url": "https://www.dailymail.co.uk/2025/02/12/stay-healthy-winter",
+        "image_url": "https://i.dailymail.co.uk/1s/2025/02/05/13/94884523-0-image-m-40_1738761537961.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T09:30:00.000000Z",
+        "source": "dailymail.co.uk",
+        "categories": ["health", "lifestyle"],
+        "relevance_score": null,
+        "locale": "uk"
+      },
+      {
+        "uuid": "576a92b9-1c75-4ff6-a2b3-1c8c354b7869",
+        "title": "New Energy Solutions for the Future",
+        "description": "A new breakthrough in energy solutions promises a cleaner future.",
+        "keywords": "Energy, Solutions, Future",
+        "snippet": "Researchers have developed new technologies that promise to change how we use and generate energy.",
+        "url": "https://www.nwemail.co.uk/2025/02/12/new-energy-solutions",
+        "image_url": "https://www.nwemail.co.uk/resources/images/12456492.jpg?type=mds-article-575",
+        "language": "en",
+        "published_at": "2025-02-12T10:00:00.000000Z",
+        "source": "nwemail.co.uk",
+        "categories": ["energy", "technology"],
+        "relevance_score": null,
+        "locale": "uk"
+      },
+      {
+        "uuid": "a2187ab1-c953-4c39-9130-8b9cfb8b23e5",
+        "title": "Climate Change Impact on Coastal Cities",
+        "description": "Rising sea levels are putting coastal cities at significant risk.",
+        "keywords": "Climate Change, Coastal Cities, Sea Levels",
+        "snippet": "The threat of rising sea levels due to climate change is becoming increasingly concerning for coastal cities worldwide.",
+        "url": "https://www.qconline.com/2025/02/12/climate-change-coastal-cities",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/1/33/1331f23d-7d43-5d52-a574-8fe061e584cd/679254ec6f2eb.preview.jpg?crop=1683%2C884%2C3%2C130&order=crop%2Cresize&resize=1200%2C630",
+        "language": "en",
+        "published_at": "2025-02-12T10:30:00.000000Z",
+        "source": "qconline.com",
+        "categories": ["environment", "climate"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "5039134f-09a7-478f-b07a-550508a5f1c2",
+        "title": "Local Community Volunteers Build Homes for the Needy",
+        "description": "A local group of volunteers has successfully built homes for those in need.",
+        "keywords": "Community, Volunteering, Homes",
+        "snippet": "Through collective efforts, volunteers have come together to provide homes for those who have been displaced in the local area.",
+        "url": "https://www.thetandd.com/2025/02/12/community-volunteers-build-homes",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/7/16/7168dae9-ab1d-585c-a158-0922ae347035/679254c38e50f.image.jpg?resize=300%2C200",
+        "language": "en",
+        "published_at": "2025-02-12T11:00:00.000000Z",
+        "source": "thetandd.com",
+        "categories": ["community", "volunteering"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "7b948a53-f9a6-4e66-9c51-61abdf708f8c",
+        "title": "Historic Monument Restored in the Heart of the City",
+        "description": "A historic monument has been restored, offering a glimpse into the city's past.",
+        "keywords": "History, Restoration, Monument",
+        "snippet": "The restoration of a significant historic monument in the city center is a monumental achievement for heritage preservation.",
+        "url": "https://www.cumberlink.com/2025/02/12/historic-monument-restored",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/c/8c/c8c72daf-60d9-561a-a2a7-164d18ad16ad/679254e8dfb63.preview.jpg?crop=1683%2C884%2C3%2C130&order=crop%2Cresize&resize=1200%2C630",
+        "language": "en",
+        "published_at": "2025-02-12T11:30:00.000000Z",
+        "source": "cumberlink.com",
+        "categories": ["history", "culture"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "cb1e3b6d-2305-4d95-b477-eed653c8590f",
+        "title": "Humans are responsible for global warming",
+        "description": "Climate scientists have showed that humans are responsible for virtually all global heating over the last 200 years.",
+        "keywords": "Urban Development, Climate Change, Cities",
+        "snippet": "Urbanization in the face of climate change presents growing challenges in cities worldwide, with new strategies being sought to address it.",
+        "url": "https://www.un.org/en/climatechange/what-is-climate-change",
+        "image_url": "https://www.un.org/sites/un2.un.org/files/2021/08/feeling-the-heat.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T12:00:00.000000Z",
+        "source": "al.com",
+        "categories": ["climate", "development"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "f3a7ff8d-2216-4cf7-8777-b04bdb9c8e71",
+        "title": "Technology Advancements in Healthcare Industry",
+        "description": "New advancements in technology are revolutionizing the healthcare industry.",
+        "keywords": "Healthcare, Technology, Innovation",
+        "snippet": "With the rise of AI, wearable devices, and telemedicine, the healthcare industry is experiencing significant technological innovations.",
+        "url": "https://www.elcom.com.au/resources/blog/the-impact-of-technology-in-healthcare-trends-benefits-examples",
+        "image_url": "https://media.licdn.com/dms/image/v2/D5612AQGqveA9-Qwh0g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687454511447?e=2147483647&v=beta&t=q0exchy-xrL9ptXGo3geBTiPSAHFNcx3IHL8bT6GMoI",
+        "language": "en",
+        "published_at": "2025-02-12T12:30:00.000000Z",
+        "source": "healthtech.com",
+        "categories": ["healthcare", "technology"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "c9f503b8-2bbf-44d4-8d2f-688cbb759482",
+        "title": "AI-Powered Solutions to Tackle Global Warming",
+        "description": "AI technologies are being developed to combat global warming and reduce carbon footprints.",
+        "keywords": "AI, Global Warming, Environment",
+        "snippet": "Innovative AI solutions are being designed to monitor climate change, predict risks, and reduce emissions on a global scale.",
+        "url": "https://greenly.earth/en-us/blog/ecology-news/how-can-artificial-intelligence-help-tackle-climate-change",
+        "image_url": "https://images.prismic.io/greenly/3b051149-0811-4e41-b02f-901df1325e9d_FinOps+article+image+3.jpg?auto=compress%2Cformat&fit=max&w=800",
+        "language": "en",
+        "published_at": "2025-02-12T13:00:00.000000Z",
+        "source": "techcrunch.com",
+        "categories": ["environment", "AI"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "12abfcb1-231a-4c6b-b226-3b27b8a21d87",
+        "title": "Astronauts Complete Historic Spacewalk for Science Experiment",
+        "description": "Astronauts have successfully completed a spacewalk to carry out important scientific experiments in space.",
+        "keywords": "Astronauts, Spacewalk, Science",
+        "snippet": "In a groundbreaking achievement, astronauts completed a spacewalk to conduct experiments that could enhance our understanding of space.",
+        "url": "https://www.space.com/spacewalk-history.html",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/6FbjKMT6k3jU2w9ZaUvLsd-1200-80.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T13:30:00.000000Z",
+        "source": "space.com",
+        "categories": ["space", "science"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "2b9be9f5-ea2f-4a60-99f3-b401214c32c9",
+        "title": "New Strategies to Combat Hunger in Developing Nations",
+        "description": "New strategies and initiatives are being implemented to combat hunger in developing nations.",
+        "keywords": "Hunger, Developing Nations, Strategies",
+        "snippet": "Innovative programs are being rolled out to address the challenges of hunger and food insecurity in some of the world’s most vulnerable regions.",
+        "url": "https://www.un.org/sustainabledevelopment/hunger/",
+        "image_url": "https://assets.weforum.org/wp-content/uploads/2015/09/10_6119493226_a5aaf6d795_b.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T14:00:00.000000Z",
+        "source": "globalissues.org",
+        "categories": ["humanitarian", "development"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "58399d87-b423-4a94-b342-745c6f2d5b35",
+        "title": "Scientists Find Possible Cure for Rare Genetic Disorder",
+        "description": "A groundbreaking discovery may lead to a cure for a rare genetic disorder.",
+        "keywords": "Genetic Disorder, Cure, Discovery",
+        "snippet": "Researchers have made a breakthrough that could potentially lead to a cure for a rare and debilitating genetic disorder affecting thousands worldwide.",
+        "url": "https://www.medicalnewstoday.com/articles/how-a-gene-therapy-cures-infants-with-fatal-genetic-disease-mld",
+        "image_url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/02/drug-infusion-fatal-genetic-disease-1296x728-header-1024x575.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T14:30:00.000000Z",
+        "source": "medicalnews.com",
+        "categories": ["health", "research"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "d7386549-cb0d-4db1-b89d-24f9a013d3e4",
+        "title": "Tourism Industry Set to Recover in 2025",
+        "description": "The tourism industry is expected to make a full recovery in 2025 after the global pandemic.",
+        "keywords": "Tourism, Recovery, Industry",
+        "snippet": "After years of struggle due to the pandemic, the tourism industry is showing signs of a strong recovery, with expectations for significant growth in 2025.",
+        "url": "https://www.traveldailymedia.com/international-travel-to-fully-recover-by-2025-globaldata/",
+        "image_url": "https://www.traveldailymedia.com/assets/2019/07/global-travel.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T15:00:00.000000Z",
+        "source": "tourismnews.com",
+        "categories": ["tourism", "economy"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "82b07bbd-6227-4424-b9c8-3b764e350fd5",
+        "title": "New Developments in Sustainable Architecture",
+        "description": "Sustainable architecture continues to grow with new developments aimed at reducing environmental impact.",
+        "keywords": "Sustainable Architecture, Green Buildings, Environment",
+        "snippet": "Recent developments in sustainable architecture offer solutions to reduce environmental impact and create more eco-friendly buildings.",
+        "url": "https://www.architecturaldigest.com/topic/sustainability",
+        "image_url": "https://media.architecturaldigest.com/photos/673374539ac27f3edb041742/16:9/w_640,c_limit/100324_HYPHEN_SaieBeauty_Garruppo_119.jpg",
+        "language": "en",
+        "published_at": "2025-02-12T15:30:00.000000Z",
+        "source": "architecturaldigest.com",
+        "categories": ["architecture", "environment"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "ed7b8a69-46b4-4898-bdbd-e254a2f3e1be",
+        "title": "New Technology in Electric Cars for 2025",
+        "description": "The electric car market is set to see new technological innovations in 2025.",
+        "keywords": "Electric Cars, Technology, Innovation",
+        "snippet": "New technological innovations in electric cars are expected to enhance efficiency and extend driving range in the coming years.",
+        "url": "https://www.autoblog.com/2025/02/12/electric-cars-technology-2025",
+        "image_url": "https://www.electrifying.com/files/Omi4W1qctXMkRXFP/Abarth%20600e%20Scorpionissima%20(06).jpg",
+        "language": "en",
+        "published_at": "2025-02-12T16:00:00.000000Z",
+        "source": "autoblog.com",
+        "categories": ["automotive", "technology"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "9a334f60-f4eb-469a-89be-bb67421332fb",
+        "title": "New Study Shows the Importance of Mental Health in Schools",
+        "description": "A new study highlights the importance of mental health initiatives in schools to support student well-being.",
+        "keywords": "Mental Health, Schools, Education",
+        "snippet": "Research has shown that providing mental health resources in schools is crucial to supporting students' well-being and academic success.",
+        "url": "https://www.wgu.edu/blog/importance-mental-health-awareness-schools1810.html",
+        "image_url": "https://www.wgu.edu/blog/2018/10/importance-mental-health-awareness-schools/_jcr_content/root/container/imageandtext.coreimg.85.800.jpeg/1705598842574/worriedteentakingatest-j-525364.jpeg",
+        "language": "en",
+        "published_at": "2025-02-12T16:30:00.000000Z",
+        "source": "educationnews.com",
+        "categories": ["education", "mental health"],
+        "relevance_score": null,
+        "locale": "us"
+      },
+      {
+        "uuid": "b3903da9-3c62-4a6c-a043-8f87e8f1d26e",
+        "title": "Global Efforts to Reduce Plastic Waste Making Progress",
+        "description": "Global initiatives to reduce plastic waste are showing positive results.",
+        "keywords": "Plastic Waste, Environment, Recycling",
+        "snippet": "Efforts to reduce plastic waste, including increased recycling and bans on single-use plastics, are showing progress in countries worldwide.",
+        "url": "https://www.unep.org/news-and-stories/press-release/global-efforts-show-progress-plastic-pollution-possible-world",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wGq0r8obetB2JxJG0ofQ4qm3AMJ9ue-Vpg&s",
+        "language": "en",
+        "published_at": "2025-02-12T17:00:00.000000Z",
+        "source": "greenplanet.com",
+        "categories": ["environment", "recycling"],
+        "relevance_score": null,
+        "locale": "us"
+      }
+      
+    ]
+  }
+
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+
+    
+  
